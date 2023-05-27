@@ -1,0 +1,20 @@
+.footer {
+    margin-top: 200px;
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+.footer_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+}
+
+.footer_container img {
+    width: 30px;
+}
